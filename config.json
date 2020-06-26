@@ -1,0 +1,17 @@
+{
+    "ProcessPath": "Your program path",
+    "AppArgs": "Your program arguvements",
+    "CustomEncryptionKey": "Your 32 char long alphanumeric key",
+    "Accounts": [
+        {
+            "Domain": "Your account domain",
+            "UserName": "Your account user name",
+            "PassHash": "Genrerated password hash by this tool"
+        },
+        {
+            "Domain": "",
+            "UserName": "",
+            "PassHash": ""
+        }
+    ]
+}
